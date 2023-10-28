@@ -1,0 +1,17 @@
+languageCode = 'en-IN'
+title = "Mitcsco Financial Services Pvt. Ltd."
+enableRobotsTXT = true
+baseURL = "https://www.mitcsco.com/"
+
+[params]
+  name = "Mitcsco"
+  logo = "/images/c2l_icon.webp"
+  phone = "+91 97177 55244"
+  email = "stocks@mitcsco.com"
+  address = "3rd floor, JS Arcade, 202, 203 & 214 Building D-1, near Bikanervala, Sector 18"
+  city = "Noida, Uttar Pradesh - 201301"
+  twitter = "https://twitter.com/mitcsco/"
+  instagram = "https://www.instagram.com/mitcscofinancial/"
+  linkedin = "https://www.linkedin.com/company/mitcscofinancial/"
+  facebook = "https://www.facebook.com/MitcscoFinancialServices/"
+  description = "We provide financial solutions to empower clients to make informed decisions and achieve financial goals."
